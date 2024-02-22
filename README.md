@@ -1,10 +1,10 @@
 # QB64-samples
 
-QB64 - GRAPHICS SAMPLES
+<b>QB64 - GRAPHICS SAMPLES</b>
 
-GET QB64: <link>https://qb64.com/</link>
+GET QB64 <link>https://qb64.com/</link> !
 
-USAGE:
+</b>USAGE
 
 qb64 -c yourfile.bas
 
